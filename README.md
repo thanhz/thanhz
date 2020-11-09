@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   <br />
-🛢 &nbsp;
+🛢 &nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <br />
 ⚙️ &nbsp;
