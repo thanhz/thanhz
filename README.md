@@ -18,7 +18,9 @@ Feel free to have a look around :)
 <br />
 ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
+  ![Maven](https://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=apachemaven&logoColor=007ACC)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 <br />
 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
