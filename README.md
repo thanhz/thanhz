@@ -28,8 +28,8 @@ Feel free to have a look around :smiley:
   ![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
   
 <div>
-  <img width=40% src="https://github-readme-stats.vercel.app/api?username=thanhz&show_icons=true&theme=slateorange"/>
-  <img width=33.5% src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhz&show_icons=true&theme=slateorange&hide_border=true&locale=en&layout=compact"/>
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=thanhz&show_icons=true&theme=slateorange"/>
+  <img width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhz&show_icons=true&theme=slateorange&hide_border=true&locale=en&layout=compact"/>
 </div>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
