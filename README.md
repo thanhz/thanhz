@@ -30,7 +30,7 @@ Feel free to have a look around :smiley:</p>
 </div>
 
 <div>
-  <h4>Connect with me</h4>
+  <h5>Connect with me</h5>
   <a href="mailto:tri.lam@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail"></a>
-  <a href="https://discordapp.com/users/Tofu#9419"><img alt="Discord" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=discord"></a>
+  <a href="https://discordapp.com/users/Tofu#9419"><img alt="Discord" src="https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord"></a>
 </div>
