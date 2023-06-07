@@ -28,9 +28,8 @@ Feel free to have a look around :smiley:</p>
   <img src="https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform"/>
   <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws"/>
  </div>
- 
 
-<h3>Connect with Me</h3>
-
-<a href="mailto:tri.lam@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail"></a>
-<a href="https://discordapp.com/users/Tofu#9419"><img alt="Discord" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=discord"></a>
+<div>
+  <a href="mailto:tri.lam@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail"></a>
+  <a href="https://discordapp.com/users/Tofu#9419"><img alt="Discord" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=discord"></a>
+</div>
