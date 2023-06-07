@@ -4,7 +4,7 @@
 Feel free to have a look around :smiley:</p>
 
 <div>
-  <img align="left" width=49% src="https://github-readme-stats.vercel.app/api?username=thanhz&show_icons=true&theme=slateorange"/>
+  <img align="left" width=55% src="https://github-readme-stats.vercel.app/api?username=thanhz&show_icons=true&theme=slateorange"/>
 </div>
 
 <div>
