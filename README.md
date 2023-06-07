@@ -4,7 +4,7 @@
 Feel free to have a look around :smiley:</p>
 
 <div>
-  <img align="left" width=50% src="https://github-readme-stats.vercel.app/api?username=thanhz&show_icons=true&theme=slateorange"/>
+  <img align="left" width=49% src="https://github-readme-stats.vercel.app/api?username=thanhz&show_icons=true&theme=slateorange"/>
 </div>
 
 <div>
@@ -30,7 +30,7 @@ Feel free to have a look around :smiley:</p>
 </div>
 
 <div>
-  <h5>Connect with me</h5>
+  <h4>Connect with me</h4>
   <a href="mailto:tri.lam@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail"></a>
   <a href="https://discordapp.com/users/Tofu#9419"><img alt="Discord" src="https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord"></a>
 </div>
