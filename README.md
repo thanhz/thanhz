@@ -7,7 +7,7 @@ Feel free to have a look around :smiley:</p>
   <img align="left" width=50% src="https://github-readme-stats.vercel.app/api?username=thanhz&show_icons=true&theme=slateorange"/>
 </div>
 
-<p>
+<div>
   <img src="https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala"/>
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java"/>
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
@@ -27,7 +27,7 @@ Feel free to have a look around :smiley:</p>
   <img src="https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions"/>
   <img src="https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform"/>
   <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws"/>
-</p>
+</div>
 
 <div>
   <h4>Connect with me</h4>
