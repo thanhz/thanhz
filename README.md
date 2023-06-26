@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Thanh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p>Coder, Tech lover and gamer!</p>
-<p>Here is where I share fun & intresting projects I've worked on!
+<p>Here is where I share fun & interesting projects I've worked on!
 Feel free to have a look around :smiley:</p>
 
 <div>
@@ -32,5 +32,5 @@ Feel free to have a look around :smiley:</p>
 <div>
   <h4>Connect with me</h4>
   <a href="mailto:tri.lam@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail"></a>
-  <a href="https://discordapp.com/users/Tofu#9419"><img alt="Discord" src="https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord"></a>
+  <a href="https://discordapp.com/users/thanhz_"><img alt="Discord" src="https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord"></a>
 </div>
